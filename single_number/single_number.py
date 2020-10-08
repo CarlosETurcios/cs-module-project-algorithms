@@ -2,8 +2,14 @@
 Input: a List of integers where every int except one shows up twice
 Returns: an integer
 '''
+
+
 def single_number(arr):
     # Your code here
+    # sort
+    # gotta pass through the array
+    # check too see if a number has a pair return false
+    # if in is only one return
 
     pass
 
